@@ -8,6 +8,6 @@ Repo: tsugumi-sys/simple-scraper-app/
 ## Front
 Vercel & Next.js & TypeScript.
 
-Next.js /api/~ : get request to self-deployed API.
+Next.js /api/~ : get request to self made API.
 
 -> /test.tsx/ : Users input the search query and fetch data on the client-side.
